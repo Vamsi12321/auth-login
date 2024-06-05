@@ -1,0 +1,40 @@
+body {
+  background-color: #faf6f6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background-image: url(https://img.freepik.com/free-vector/geometric-gradient-futuristic-background_23-2149116406.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+.register {
+  margin-top: 150px;
+  height: 500px;
+  width: 360px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 4px;
+}
+.login {
+  margin-top: 200px;
+  height: 330px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  background-color: white;
+  border-radius: 4px;
+}
+.footer {
+  margin-top: 15px;
+}
+.btn {
+  width: 212px;
+  margin-top: 6px;
+}
+.profile {
+  margin-top: 150px;
+}
